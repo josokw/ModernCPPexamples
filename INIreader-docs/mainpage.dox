@@ -1,0 +1,22 @@
+/*!
+
+\mainpage Compiling and executing INIreader
+
+INIreader reads \link Example.ini \endlink.
+
+\section sec1 Compiling INIreader
+
+This application must be compiled by a makefile using the make command 
+executing \link Makefile \endlink.
+
+\section sec2 Executing INIreader
+
+Use the next commands and options to start the application:
+
+\verbatim ./INIreader \endverbatim
+
+The application will show some logging and debug information to stdout
+and stderr.
+
+*/
+
