@@ -1,0 +1,26 @@
+A: Hi from main!
+--F1: Hi from thread function! no args
+B: Hi from main!
+--F2: Hi from thread function! 1 arg = X
+C: Hi from main!
+--FC: Hi from thread function in object! no args: 1234
+C: Hi from main!
+--FC: Hi from thread function in object! extra = HaHaHa  1234
+D: Hi from main
+--L1: Hi from thread!
+--L2: Hi from thread 1 !!
+--L2: Hi from thread 2 !!
+--L2: Hi from thread 3 !!
+--L2: Hi from thread 5 !!
+--L2: Hi from thread 6 !!
+--L2: Hi from thread 7 !!
+--L2: Hi from thread 8 !!
+--L2: Hi from thread 9 !!
+--L2: Hi from thread 10 !!
+--L2: Hi from thread 11 !!
+--L2: Hi from thread 12 !!
+--L2: Hi from thread 13 !!
+--L2: Hi from thread 14 !!
+E: Hi from main!
+--L2: Hi from thread 15 !!
+--L2: Hi from thread 4 !!
