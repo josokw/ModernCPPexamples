@@ -35,3 +35,6 @@ buildnumber.num
 
 ClocksTimers/clockstimers
 Algorithms/algorithms
+Constexpr/constexpr
+MultipleReturn/multipleReturn
+PairsMaps/pairsmaps
