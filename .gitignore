@@ -29,11 +29,15 @@ buildnumber.num
 
 # Doxygen
 *.html
+*.css
 *.js
 *.md5
 *.map
 *.rej
 *.orig
+*/html/*.png
+*/html/*.css
+*/html/search
 
 ClocksTimers/clockstimers
 Algorithms/algorithms
