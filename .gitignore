@@ -38,3 +38,5 @@ Algorithms/algorithms
 Constexpr/constexpr
 MultipleReturn/multipleReturn
 PairsMaps/pairsmaps
+Tokenizer/tokenizer
+HexdumpFunctionTemplate/hexdump
