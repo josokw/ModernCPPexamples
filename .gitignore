@@ -47,3 +47,4 @@ Iterators/iterators
 Threads/ASync/async
 Threads/HwConcurrency/hwconcurrency
 Threads/Mutex/mutex
+Threads/NativeHandle/nativehandle
