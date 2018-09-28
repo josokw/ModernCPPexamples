@@ -45,3 +45,4 @@ PtrsPerformance/ptrsperformance
 INIreader/INIreader
 Iterators/iterators
 Threads/ASync/async
+Threads/HwConcurrency/hwconcurrency
