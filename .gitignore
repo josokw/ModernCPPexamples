@@ -49,3 +49,4 @@ Threads/HwConcurrency/hwconcurrency
 Threads/Mutex/mutex
 Threads/NativeHandle/nativehandle
 Threads/Threads1/threads1
+Threads/Threads2/threads2
