@@ -30,7 +30,7 @@ class Something // A functor is class which defines the operator().
                 // That lets you create objects which "look like" a function.
 {
 public:
-   Something(int smt)
+   explicit Something(int smt)
       : smt_{smt}
    {
    }
