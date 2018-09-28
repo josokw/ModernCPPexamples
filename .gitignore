@@ -32,3 +32,6 @@ buildnumber.num
 *.js
 *.md5
 *.map
+
+ClocksTimers/clockstimers
+Algorithms/algorithms
